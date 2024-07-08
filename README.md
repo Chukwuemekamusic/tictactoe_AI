@@ -60,4 +60,4 @@ MIT License - Copyright (c) 2024 Joseph Anyaegbunam - Use, modify, and distribut
 ## Contact
 Joseph Anyaegbunam - e.anyaegbunam@outlook.com
 
-Project Link: https://github.com/Chukwuemekamusic/tictactoe_AI/tree/master
+Project Link: https://github.com/Chukwuemekamusic/tictactoe_AI
